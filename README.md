@@ -7,6 +7,9 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
 <br>Outside of coding also enjoy playing FPS, chill, and rhythm games<br>
 
 ## My Socials
+  <a href="https://discord.com/users/1142851354637893632" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 <div align="center">
   <a href="mailto:hoangtm.pro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -23,9 +26,6 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
 </p>
 
 ## Contribution Graph
-  <a href="https://discord.com/users/1142851354637893632" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
     <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=github-dark&hide_border=true&radius=12" />
 </p>
