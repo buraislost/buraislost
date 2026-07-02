@@ -11,13 +11,6 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
   <a href="mailto:hoangtm.pro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  <a href="https://discord.com/users/1142851354637893632" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
-    <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=github-dark&hide_border=true&radius=12" />
-</p>
-</div>
 
 ## Tech Stack
 <p align="center">
@@ -29,3 +22,11 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
   <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" height="180" />
 </p>
 
+## Contribution Graph
+  <a href="https://discord.com/users/1142851354637893632" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+    <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=github-dark&hide_border=true&radius=12" />
+</p>
+</div>
