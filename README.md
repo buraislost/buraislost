@@ -1,6 +1,6 @@
 # Hi, I'm Bura (aka @buraislost ) 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Bura!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Bura+..;" />
 </h1>
 <br>Welcome to my GitHub space! I'm passionate about Cyber Security and constantly learning, building, and improving everyday <br>Outside of coding, I enjoy playing FPS, chill, and rhythm games<br>
 
