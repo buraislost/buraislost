@@ -23,9 +23,7 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
 
 # GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" height="180" />
+  <img src="https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false" height="180" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" />
 </p>
