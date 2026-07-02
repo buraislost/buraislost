@@ -14,17 +14,18 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
   <a href="https://discord.com/users/1142851354637893632" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
+    <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=github-dark&hide_border=true&radius=12" />
+</p>
 </div>
-
 # Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git,github,cloudflare,nginx&perline=4" />
+<img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,docker,py,c,cpp,js,php,mysql,vscode,notion&perline=7"/>
 </p>
-
 # GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" height="180" />
   <img src="https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" />
 </p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=tokyo-night"/>
+
