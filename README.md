@@ -1,17 +1,12 @@
+# Hi, I'm Bura (aka @buraislost ) 👋
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=32&center=true&vCenter=true&width=600&height=60&color=4493F8&duration=4000&lines=Hi%2C+I'm+Bura+%F0%9F%91%8B;aka+%40buraislost" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=48&center=true&vCenter=true&width=500&height=70&color=4493F8&duration=4000&lines=I'm+Bura+..;" />
 </h1>
+<br>Welcome to my GitHub space! 
+I'm passionate about Cyber Security and constantly learning, building, and improving everyday 
+<br>Outside of coding also enjoy playing FPS, chill, and rhythm games<br>
 
-<p align="center">
-  Welcome to my GitHub space! I'm passionate about <b>Cyber Security</b> and constantly learning, building, and improving every day.
-  <br>
-  Outside of coding, I enjoy FPS games, chill sessions, and rhythm games 🎮
-</p>
-
-<hr>
-
-## My Socials
-
+## My Socials:
 <div align="center">
   <a href="mailto:hoangtm.pro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -21,22 +16,9 @@
   </a>
 </div>
 
-<hr>
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git,github,cloudflare,nginx&perline=4" />
-</p>
-
-<hr>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
-</div>
+# Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
