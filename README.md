@@ -15,6 +15,7 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
+
 ## Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=linux,kali,bash,git,github,docker,py,c,cpp,js,php,mysql,vscode,notion&perline=7"/>
@@ -26,7 +27,6 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
 </p>
 
 ## Contribution Graph
-    <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=github-dark&hide_border=true&radius=12" />
 </p>
 </div>
