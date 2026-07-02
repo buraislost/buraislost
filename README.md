@@ -6,7 +6,7 @@
 I'm passionate about Cyber Security and constantly learning, building, and improving everyday 
 <br>Outside of coding also enjoy playing FPS, chill, and rhythm games<br>
 
-## My Socials:
+## My Socials
 <div align="center">
   <a href="mailto:hoangtm.pro@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
@@ -16,16 +16,15 @@ I'm passionate about Cyber Security and constantly learning, building, and impro
   </a>
 </div>
 
-# Tech Stack:
+# Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,kali,bash,docker,git,github,cloudflare,nginx&perline=4" />
 </p>
 
-# GitHub Stats:
+# GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.shion.dev/api?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false" height="180" />
   <img src="https://streak-stats.demolab.com/?user=buraislost&theme=discord_old_blurple&hide_border=false" height="180" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=buraislost&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="180" />
 </p>
-# Contribution Graph
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=buraislost&theme=tokyo-night"/>
